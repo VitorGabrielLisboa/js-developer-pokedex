@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://archives.bulbagarden.net/media/upload/thumb/1/10/0479Rotom-Pok%C3%A9dex.png/220px-0479Rotom-Pok%C3%A9dex.png" alt="Banner da Pokédex" title="Banner da Pokédex">
 </div>
@@ -7,8 +6,8 @@
   
 ![Static Badge](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=%23ffffff&labelColor=%23222222&color=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=%23ffffff&labelColor=%23222222&color=%23555555)
-![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=%23ffffff&labelColor=%23222222&color=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/PokéAPI-red?style=flat&logo=pokemon&logoColor=%23ffffff&labelColor=%23222222&color=%23FF0000)
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=%23ffffff&labelColor=%23222222&color=%23ffdb58)
+![Static Badge](https://img.shields.io/badge/PokéAPI-crimson?style=flat&logo=pokemon&logoColor=%23ffffff&labelColor=%23222222&color=%23DC143C)
 
 </div>
 
